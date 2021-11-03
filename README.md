@@ -1,5 +1,5 @@
 ### Overview of Project
-The Stock Analysis project is all about helping my friend Steve has asked me to analysis a green stock for his parents to see if it is worth investing in. Steve's parents are very much passionate about green energy. So they decided to invest in DAQO New Energy Corp. DAQO's ticker symbol is "DQ". So further we'll be using the ticker symbol "DQ" in our analysis.
+The Stock Analysis project is all about helping my friend Steve who has asked me to analyze a green stock for his parents to see if it is worth investing in. Steve's parents are very much passionate about green energy. So they decided to invest in DAQO New Energy Corp. DAQO's ticker symbol is "DQ". So further we'll be using the ticker symbol "DQ" in our analysis.
 
 - As mentioned we'll first start with analysing the DQ stock :
 
